@@ -1,6 +1,6 @@
 # Mensajeria
 
-> **Mensajeria** ✍️ is a powerful extension designed to streamline your communication by offering a set of pre-made message and email templates. Whether you're sending quick responses, formal emails, or casual messages, **Mensajeria** makes it easy to customize and send the perfect message in just a few clicks. Save time, stay consistent, and enhance your productivity with a tool built to craft messages effortlessly.
+> Mensajeria ✍️ A powerful extension that simplifies communication with pre-made templates and reusable fragments, like phrases and greeting messages. Quickly customize and send messages, saving time and boosting productivity.
 
 ## Install
 
