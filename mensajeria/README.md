@@ -1,6 +1,6 @@
 # Mensajeria
 
-> Mensajeria ✍️ A powerful extension that simplifies communication with pre-made templates and reusable fragments, like phrases and greeting messages. Quickly customize and send messages, saving time and boosting productivity.
+> Mensajeria ✍️ A powerful extension that simplifies communication with pre-made **templates** and **reusable fragments**, like phrases and greeting messages. Quickly customize and send messages, saving time and boosting productivity.
 
 ## Install
 
